@@ -1,3 +1,3 @@
 # Dr.-Semmelweis-and-the-Discovery-of-Handwashing
-Bu analizde  Dr.Semmelweis'ın 1940'larda oluşturduğu datasetlerinden  'yearly_deaths_by_clinic' ve 'monthly_deaths' kullanılmıştır. Veri setinde yıllara ve aylara göre, doğum sayıları, ölüm sayıları, ve bu doğum ve ölümlerin gerçekleştiği klinik isimleri yer almaktadır.
+Bu analizde  Dr.Semmelweis'ın 1940'larda oluşturduğu datasetlerinden  'yearly_deaths_by_clinic.csv' ve 'monthly_deaths.csv' kullanılmıştır. Veri setinde yıllara ve aylara göre, doğum sayıları, ölüm sayıları, ve bu doğum ve ölümlerin gerçekleştiği klinik isimleri yer almaktadır.
 Bu analizin amacı hastanelerde çalışan doktoraların el yıkamasının önemini sayısal ve görsel olarak ortaya koymaktır. Doktorlara el yıkama kuralı getirildiğinde ölüm sayılarının  nasıl değiştiği çizgi grafikle incelenmiştir.Ayrıca %95 güven aralığında ölüm oranlarının nasıl değiştiği ortaya konmuştur.
